@@ -1,0 +1,41 @@
+_repo: Oranges-and-lemons_72741
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wemyss, Mary C. E.
+    aliases:
+    - Wemyss, Mrs. George
+    - Wemyss, Mary Constance Elphinstone
+    birthdate: 1868
+    deathdate: 1951
+    gutenberg_agent_id: '1859'
+    url: http://www.gutenberg.org/2009/agents/1859
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wemyss
+description: ''
+gutenberg_issued: '2024-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72741'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn5sdm&seq=1
+pgterms:marc905: 20231105080534wemyss
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Bob Taylor, Susan E., David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bThe Riverside Press Cambridge, Houghton Mifflin Company,
+  $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Great Britain -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Aunts -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Oranges and lemons
+url: http://www.gutenberg.org/ebooks/72741
